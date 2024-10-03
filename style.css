@@ -89,8 +89,8 @@ body{
 
 @media screen and (max-width: 700px) {
   .cards{
-    height: 350px;
-    width: 350px;
+    height: 400px;
+    width: 400px;
   }
   .card .front-view img{
     width: 17px;
